@@ -20,8 +20,6 @@ Clinical Outcomes Differ Across Practitioners
 
 The Outcome Score analysis highlights clear variations in practitioner performance.
 
-Key observations include:
-
 Some practitioners consistently achieve higher positive outcomes.
 Others show increased low or unidentified outcome scores.
 Insight
@@ -39,9 +37,7 @@ The Average Cost chart identifies Group Therapy as the most expensive interventi
 
 Insight
 
-The findings suggest that:
-some lower-cost services may still achieve effective outcomes,
-while higher-cost services may require further efficiency evaluation.
+Lower-cost services may still achieve effective outcomes,while higher-cost services may require further efficiency evaluation.
 
 Balancing Financial Sustainability and Clinical Value
 
@@ -57,7 +53,7 @@ operational efficiency,
 and financial sustainability.
 
 Project Goals
-This dashboard aims to:
+
 Improve visibility into service performance
 Support evidence-based decision-making
 Enhance resource allocation strategies
@@ -65,16 +61,14 @@ Monitor clinical effectiveness
 Identify opportunities for cost optimisation
 
 Tools & Technologies
-Power BI / Excel / Tableau (update based on your tool)
+
+Power BI / Excel / Tableau 
+
 Data Visualisation
+
 Healthcare Analytics
+
 KPI Reporting
+
 Performance Monitoring
-
-Key Takeaways
-
-Counselling incurs the highest session cost.
-CBT appears to offer strong cost efficiency.
-Practitioner outcomes vary significantly.
-Group Therapy has the highest average cost.
 
