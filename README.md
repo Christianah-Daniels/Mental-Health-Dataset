@@ -72,6 +72,7 @@ KPI Reporting
 Performance Monitoring
 
 Key Takeaways
+
 Counselling incurs the highest session cost.
 CBT appears to offer strong cost efficiency.
 Practitioner outcomes vary significantly.
