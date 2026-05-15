@@ -1,6 +1,6 @@
 Dashboard Introduction
 
-1️⃣ Counselling Represents the Highest Session Cost
+Counselling Represents the Highest Session Cost
 
 The dashboard reveals that Counselling has the highest cost per session among all therapy types. This may indicate:
 
@@ -16,7 +16,7 @@ This raises an important operational question:
 
 Does the higher investment in counselling consistently translate into stronger patient outcomes?
 
-2️⃣ Clinical Outcomes Differ Across Practitioners
+Clinical Outcomes Differ Across Practitioners
 
 The Outcome Score analysis highlights clear variations in practitioner performance.
 
@@ -32,17 +32,18 @@ staff development,
 clinical supervision,
 knowledge sharing,
 and improved outcome documentation practices.
-3️⃣ Group Therapy Has the Highest Average Cost
+
+Group Therapy Has the Highest Average Cost
 
 The Average Cost chart identifies Group Therapy as the most expensive intervention on average, while CBT remains comparatively cost-effective.
 
 Insight
 
 The findings suggest that:
-
 some lower-cost services may still achieve effective outcomes,
 while higher-cost services may require further efficiency evaluation.
-4️⃣ Balancing Financial Sustainability and Clinical Value
+
+Balancing Financial Sustainability and Clinical Value
 
 A key narrative emerging from the dashboard is:
 
@@ -54,22 +55,23 @@ service quality,
 patient outcomes,
 operational efficiency,
 and financial sustainability.
-🚀 Project Goals
 
+ Project Goals
 This dashboard aims to:
-
 Improve visibility into service performance
 Support evidence-based decision-making
 Enhance resource allocation strategies
 Monitor clinical effectiveness
 Identify opportunities for cost optimisation
-🛠️ Tools & Technologies
+
+Tools & Technologies
 Power BI / Excel / Tableau (update based on your tool)
 Data Visualisation
 Healthcare Analytics
 KPI Reporting
 Performance Monitoring
-📌 Key Takeaways
+
+ Key Takeaways
 Counselling incurs the highest session cost.
 CBT appears to offer strong cost efficiency.
 Practitioner outcomes vary significantly.
