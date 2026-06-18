@@ -18,11 +18,17 @@ Improves reporting efficiency with an interactive dashboard.
 Tools & Skills
 
 Microsoft Excel
+
 Pivot Tables
+
 Pivot Charts
+
 Slicers
+
 Dashboard Design
+
 Data Analysis
+
 Data Visualization
 KPI Reporting
 Business Intelligence
