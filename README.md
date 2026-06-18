@@ -1,74 +1,28 @@
-Dashboard Introduction
+Sales Overview Dashboard | Microsoft Excel
 
-Counselling Represents the Highest Session Cost
+This interactive Sales Overview Dashboard was built in Microsoft Excel to analyze sales performance and provide actionable business insights through dynamic visualizations and KPI reporting.
 
-The dashboard reveals that Counselling has the highest cost per session among all therapy types. This may indicate:
+Key Features
 
-higher staffing requirements,
-longer treatment durations,
-or increased operational expenses.
+📊 Displays Total Revenue, Total Profit, and Units Produced
+📈 Tracks monthly revenue trends
+🏆 Highlights the top 10 products by revenue and profit
+📦 Monitors production performance across products
+🎯 Interactive slicers for filtering by product and date
+Business Value
+Enables quick identification of top-performing products.
+Supports sales trend analysis for better forecasting.
+Provides clear KPI monitoring for informed decision-making.
+Improves reporting efficiency with an interactive dashboard.
 
-Meanwhile, Crisis Support shows the lowest cost per session, suggesting greater cost efficiency.
+Tools & Skills
 
-Insight
-
-This raises an important operational question:
-
-Does the higher investment in counselling consistently translate into stronger patient outcomes?
-
-Clinical Outcomes Differ Across Practitioners
-
-The Outcome Score analysis highlights clear variations in practitioner performance.
-
-Some practitioners consistently achieve higher positive outcomes.
-Others show increased low or unidentified outcome scores.
-Insight
-
-These variations may indicate opportunities for:
-
-staff development,
-clinical supervision,
-knowledge sharing,
-and improved outcome documentation practices.
-
-Group Therapy Has the Highest Average Cost
-
-The Average Cost chart identifies Group Therapy as the most expensive intervention on average, while CBT remains comparatively cost-effective.
-
-Insight
-
-Lower-cost services may still achieve effective outcomes,while higher-cost services may require further efficiency evaluation.
-
-Balancing Financial Sustainability and Clinical Value
-
-A key narrative emerging from the dashboard is:
-
-Higher spending does not always guarantee better outcomes.
-
-The dashboard encourages healthcare organisations to balance:
-
-service quality,
-patient outcomes,
-operational efficiency,
-and financial sustainability.
-
-Project Goals
-
-Improve visibility into service performance
-Support evidence-based decision-making
-Enhance resource allocation strategies
-Monitor clinical effectiveness
-Identify opportunities for cost optimisation
-
-Tools & Technologies
-
-Power BI / Excel / Tableau 
-
-Data Visualisation
-
-Healthcare Analytics
-
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Dashboard Design
+Data Analysis
+Data Visualization
 KPI Reporting
-
-Performance Monitoring
-
+Business Intelligence
